@@ -76,3 +76,9 @@ Despite rapid growth, NVIDIA maintained a relatively stable debt ratio compared 
 ### 5. AI market expansion significantly reshaped financial performance
 
 The data strongly suggests that the AI boom beginning in 2022 created a major financial advantage for NVIDIA compared to other tech companies.
+
+## Dashboard
+
+The following dashboard was created to visualize revenue growth, profitability trends, and financial stability across the three companies.
+
+![Tech Financial Dashboard](images/dashboard_preview.png)
