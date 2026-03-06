@@ -81,4 +81,4 @@ The data strongly suggests that the AI boom beginning in 2022 created a major fi
 
 The following dashboard was created to visualize revenue growth, profitability trends, and financial stability across the three companies.
 
-![Tech Financial Dashboard](images/dashboard_preview.png)
+![Tech Financial Dashboard](images/dashboard_preview.PNG)
