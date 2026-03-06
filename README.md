@@ -52,3 +52,27 @@ Metrics analyzed:
 - Power BI – Data visualization and dashboard creation
 - Excel / Google Sheets – Data preparation
 - GitHub – Project documentation and version control
+
+## Key Insights
+
+### 1. NVIDIA experienced the strongest post-2022 growth
+
+NVIDIA showed a dramatic increase in revenue and profitability after 2022, driven largely by the rapid expansion of the AI and data center markets.
+
+Average revenue growth increased significantly during the 2022–2025 period.
+
+### 2. Meta maintained strong profitability stability
+
+Meta showed relatively stable operating and net margins across both periods, demonstrating strong operational efficiency despite macroeconomic changes.
+
+### 3. Tesla showed weaker profitability compared to peers
+
+Although Tesla experienced strong revenue growth, its net profit margins remained significantly lower than Meta and NVIDIA.
+
+### 4. Debt levels did not increase significantly for NVIDIA
+
+Despite rapid growth, NVIDIA maintained a relatively stable debt ratio compared to other companies.
+
+### 5. AI market expansion significantly reshaped financial performance
+
+The data strongly suggests that the AI boom beginning in 2022 created a major financial advantage for NVIDIA compared to other tech companies.
